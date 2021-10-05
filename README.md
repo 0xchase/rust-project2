@@ -6,3 +6,6 @@ Ideas
  - Rust build system, modules, creates
  - Enums, pattern matching, collections,
  - Traits, polymorphism
+
+## Ideas
+ - 
